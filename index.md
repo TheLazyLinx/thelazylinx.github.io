@@ -1,17 +1,17 @@
 # Privacy Policy
 
-**CookTimer** ("the App")  
+**Hands-Free Timer** ("the App")  
 **Package:** ro.maris.tools.cooktimer  
-**Developer:** Maris  
+**Developer:** Maris Ionut-Mihaita  
 **Effective Date:** April 1, 2026
 
 ---
 
 ## 1. Introduction
 
-This Privacy Policy describes how CookTimer collects, uses, and protects information when you use the App. CookTimer is a cooking timer application that helps you manage multi-step cooking workflows, quick countdown timers, and a stopwatch — with optional hands-free sound-gesture control.
+This Privacy Policy describes how Hands-Free Timer collects, uses, and protects information when you use the App. Hands-Free Timer is a timer application that helps you manage multi-step workflows, quick countdown timers, and a stopwatch — with optional hands-free sound-gesture control.
 
-We are committed to protecting your privacy. **CookTimer does not collect, transmit, or share any personal data.**
+We are committed to protecting your privacy. **Hands-Free Timer does not collect, transmit, or share any personal data.**
 
 ---
 
@@ -19,7 +19,7 @@ We are committed to protecting your privacy. **CookTimer does not collect, trans
 
 ### 2.1 Personal Information
 
-CookTimer does **not** collect any personal information. The App:
+Hands-Free Timer does **not** collect any personal information. The App:
 
 - Does not require an account, registration, or sign-in
 - Does not collect names, email addresses, phone numbers, or any other personal identifiers
@@ -28,7 +28,7 @@ CookTimer does **not** collect any personal information. The App:
 
 ### 2.2 Data Stored Locally on Your Device
 
-CookTimer stores the following data **exclusively on your device** to provide its core functionality:
+Hands-Free Timer stores the following data **exclusively on your device** to provide its core functionality:
 
 - **Timer presets and steps** — Names, durations, notes, and configuration of cooking presets you create
 - **User preferences** — Settings such as sound effects, haptics, theme, accent color, display style, and sound-detection toggles
@@ -38,7 +38,7 @@ This data is never transmitted off your device.
 
 ### 2.3 Sound Detection Diagnostics
 
-When the optional sound-gesture feature is enabled, CookTimer includes a diagnostics screen that logs detection events (timestamps, audio metrics, confidence scores) for calibration purposes. This diagnostic data:
+When the optional sound-gesture feature is enabled, Hands-Free Timer includes a diagnostics screen that logs detection events (timestamps, audio metrics, confidence scores) for calibration purposes. This diagnostic data:
 
 - Is stored only in the app's local memory during the session
 - Can be manually exported by you to the clipboard as CSV
@@ -48,7 +48,7 @@ When the optional sound-gesture feature is enabled, CookTimer includes a diagnos
 
 ## 3. Permissions
 
-CookTimer requests the following Android permissions:
+Hands-Free Timer requests the following Android permissions:
 
 | Permission | Purpose |
 |---|---|
@@ -71,11 +71,11 @@ The microphone is used **only** when you explicitly enable the sound-gesture con
 
 ### 4.1 Google Play Billing
 
-CookTimer uses the Google Play Billing Library to process in-app purchases for the premium unlock. Purchase transactions are handled entirely by Google Play. CookTimer does not process or store any payment information. Google's handling of your billing data is governed by [Google's Privacy Policy](https://policies.google.com/privacy).
+Hands-Free Timer uses the Google Play Billing Library to process in-app purchases for the premium unlock. Purchase transactions are handled entirely by Google Play. Hands-Free Timer does not process or store any payment information. Google's handling of your billing data is governed by [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ### 4.2 No Other Third-Party Services
 
-CookTimer does **not** integrate with:
+Hands-Free Timer does **not** integrate with:
 
 - Analytics services (e.g., Google Analytics, Firebase Analytics)
 - Advertising networks (e.g., AdMob)
@@ -87,7 +87,7 @@ CookTimer does **not** integrate with:
 
 ## 5. Data Sharing
 
-CookTimer does **not** share any data with third parties. All user-generated content (presets, settings) remains on your device.
+Hands-Free Timer does **not** share any data with third parties. All user-generated content (presets, settings) remains on your device.
 
 ---
 
@@ -95,7 +95,7 @@ CookTimer does **not** share any data with third parties. All user-generated con
 
 All App data is stored locally on your device. You can delete all data at any time by:
 
-- Clearing the App's data through your device's Settings > Apps > CookTimer > Clear Data
+- Clearing the App's data through your device's Settings > Apps > Hands-Free Timer > Clear Data
 - Uninstalling the App
 
 No data persists on any external server after deletion.
@@ -104,13 +104,13 @@ No data persists on any external server after deletion.
 
 ## 7. Children's Privacy
 
-CookTimer does not knowingly collect any personal information from anyone, including children under the age of 13. The App does not require any personal information to function.
+Hands-Free Timer does not knowingly collect any personal information from anyone, including children under the age of 13. The App does not require any personal information to function.
 
 ---
 
 ## 8. Security
 
-All data is stored locally on your device using Android's standard application sandboxing. CookTimer does not transmit data over the internet (other than Google Play Billing transactions handled by the Google Play platform). Cloud backup is disabled for the App.
+All data is stored locally on your device using Android's standard application sandboxing. Hands-Free Timer does not transmit data over the internet (other than Google Play Billing transactions handled by the Google Play platform). Cloud backup is disabled for the App.
 
 ---
 
@@ -124,8 +124,9 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** [INSERT CONTACT EMAIL]
+**Email:** marisionutlinx@proton.me
 
 ---
 
-*This privacy policy applies to the CookTimer app available on Google Play.*
+*This privacy policy applies to the Hands-Free Timer app available on Google Play.*
+
